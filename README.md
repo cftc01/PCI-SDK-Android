@@ -7,7 +7,7 @@ dependencyResolutionManagement {
   ...
   repositories {
     ...
-    maven { url 'https://raw.githubusercontent.com/cftc01/PCI-SDK-Android/main/maven') }
+    maven { url 'https://raw.githubusercontent.com/cftc01/PCI-SDK-Android/main/maven' }
   }
 }
 ```
