@@ -7,10 +7,7 @@ dependencyResolutionManagement {
   ...
   repositories {
     ...
-    maven {
-      name = "GitHubPackages"
-      url = uri('https://maven.pkg.github.com/cftc01/PCI-SDK-Android')
-    }
+    maven { url 'https://raw.githubusercontent.com/cftc01/PCI-SDK-Android/main/maven') }
   }
 }
 ```
