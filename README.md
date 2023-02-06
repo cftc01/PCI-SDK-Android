@@ -17,7 +17,7 @@ You can then include it in your app's `build.gradle` file
 ```
 dependencies {
   ...
-  implementation 'com.cascade:pci-sdk:1.0.0'
+  implementation 'com.cascade:pci-sdk:1.0.2'
   ...
 }
 ```
