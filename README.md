@@ -21,3 +21,8 @@ dependencies {
   ...
 }
 ```
+
+# Releases
+
+## 1.0.2
+  * Allow wearable cards to be displayed in the same way virtual cards are displayed.
