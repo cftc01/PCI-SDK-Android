@@ -35,11 +35,11 @@
         {
           "name": "pci-sdk-1.0.2.aar",
           "url": "pci-sdk-1.0.2.aar",
-          "size": 1160301,
-          "sha512": "1ee4ebfe8de6a72c94b400283ac5a25bfe4e658459d29566122a1c7285acc76b43bbb3c9f981b443a3e5644cac5d9610fa5888e54372b089da2296490f07694c",
-          "sha256": "1db63f67d19af5bd15682e19d68753b7102f1386535f0a6cc8eb963d2ce5d084",
-          "sha1": "434f7868ee65271c2f23c53f91dbd2a41b3c3e84",
-          "md5": "0d07d2dd3463268b0d93e489f7dd1e3d"
+          "size": 1162755,
+          "sha512": "2ade5ce824f5211204ed38da92b35f1ea02b2c542ec238c61b772066a2369929409430f9dfed1ef9c3fd68e3ae0cd7171ffe7de5173926eb760170044d5de339",
+          "sha256": "853ab8bf12b1190792710410df6456ad181a1f03d25a54a0562a82c2d3207ba7",
+          "sha1": "ab704b93e2d1e81be30b2dc5e8280e8b91cf76df",
+          "md5": "6475fb4f7bd93537b62e4e0847eacb5f"
         }
       ]
     },
@@ -211,11 +211,11 @@
         {
           "name": "pci-sdk-1.0.2.aar",
           "url": "pci-sdk-1.0.2.aar",
-          "size": 1160301,
-          "sha512": "1ee4ebfe8de6a72c94b400283ac5a25bfe4e658459d29566122a1c7285acc76b43bbb3c9f981b443a3e5644cac5d9610fa5888e54372b089da2296490f07694c",
-          "sha256": "1db63f67d19af5bd15682e19d68753b7102f1386535f0a6cc8eb963d2ce5d084",
-          "sha1": "434f7868ee65271c2f23c53f91dbd2a41b3c3e84",
-          "md5": "0d07d2dd3463268b0d93e489f7dd1e3d"
+          "size": 1162755,
+          "sha512": "2ade5ce824f5211204ed38da92b35f1ea02b2c542ec238c61b772066a2369929409430f9dfed1ef9c3fd68e3ae0cd7171ffe7de5173926eb760170044d5de339",
+          "sha256": "853ab8bf12b1190792710410df6456ad181a1f03d25a54a0562a82c2d3207ba7",
+          "sha1": "ab704b93e2d1e81be30b2dc5e8280e8b91cf76df",
+          "md5": "6475fb4f7bd93537b62e4e0847eacb5f"
         }
       ]
     }
