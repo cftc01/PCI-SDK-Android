@@ -17,12 +17,16 @@ You can then include it in your app's `build.gradle` file
 ```
 dependencies {
   ...
-  implementation 'com.cascade:pci-sdk:1.0.3'
+  implementation 'com.cascade:pci-sdk:1.0.4'
   ...
 }
 ```
 
 # Releases
+
+## 1.0.4
+  * Provided ability to copy card data from virtual cards
+  * Optimized code entry field
 
 ## 1.0.3
   * Bugfix for initialization of SDK
