@@ -17,12 +17,15 @@ You can then include it in your app's `build.gradle` file
 ```
 dependencies {
   ...
-  implementation 'com.cascade:pci-sdk:1.0.5'
+  implementation 'com.cascade:pci-sdk:1.0.6'
   ...
 }
 ```
 
 # Releases
+
+## 1.0.6
+  * Bugfix for Color and Corner Radius properties during SDK initialization
 
 ## 1.0.5
   * Bugfix for CascadeColors and CascadeTypography objects
